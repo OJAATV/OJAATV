@@ -1,3 +1,1 @@
-#EXTM3U
-#EXTINF:-1  tvg-logo="https://i.imgur.com/TlNAO45.png" group-title="SPORTS",Eleven Sports 2 Polska
-https://webudi.openhd.lol/lb/premium72/index.m3u8?|referer=https://widevine.licenses4.me/&User-agent=REDLINECLIENT
+#EXTM3U #EXT-X-STREAM-INF:CLOSED-CAPTIONS=NONE,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",AVERAGE-BANDWIDTH=2330000,BANDWIDTH=2920000 tracks-v1a1/mono.m3u8
